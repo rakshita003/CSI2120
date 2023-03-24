@@ -1,10 +1,10 @@
 This archive contains this file (ReadMe),the main PlaneRANSAC.go file containing the code. There are the data files PointCloud1.xyz, PointCloud2.xyz and PointColid3.xyz and the 3 png file from which the data points are collected.
 
-@author: Rakshita Mathur
-@student number: 300215340
-@date: 03/11/2023
-@Course: CSI 2120 - programming paradigms
-@description: This program implements the RANSAC algorithm to find the best plane that fits a set of points.
+author: Rakshita Mathur
+student number: 300215340
+date: 03/11/2023
+Course: CSI 2120 - programming paradigms
+description: This program implements the RANSAC algorithm to find the best plane that fits a set of points.
               The program takes as input a file containing the points in the format x y z, one point per line.
               The program outputs the plane coefficients A, B, C, D and the number of points that are on the plane.
               The program also outputs the time taken to run the algorithm.
