@@ -11,9 +11,9 @@ This repository contains the course materials for CSI2120 - Programming Paradigm
 
 ## Contents
 
-The repository is organized into the following directories:
+The repository has 2 directories, one for Assignemnts and another is for Projects
 
-- **Java:** This directory contains Java code for project-part-1 related to Object-Oriented Programming (OOP) concepts covered in the course.
+- **Java:** This directory contains Java code for Project-part-1 related to Object-Oriented Programming (OOP) concepts covered in the course.
 
 - **Go:** This directory contains Go code for Project-part-2 and assignments related to concurrent programming concepts covered in the course.
 
@@ -23,10 +23,10 @@ The repository is organized into the following directories:
 
 ## Usage
 
-You can clone this repository and use the Project and assignments for learning and practicing programming paradigms covered in the CSI2120 course.
+You can clone this repository and use the Projects and assignments for learning and practicing programming paradigms covered in the CSI2120 course.
 
 ## Contact
 
-If you have any questions or need further information,  [Contact me](mailto:rmath049@uottawa.ca)
+If you have any questions or need further information, [Contact me](mailto:rmath049@uottawa.ca)
 
 
