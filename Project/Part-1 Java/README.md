@@ -5,7 +5,7 @@ This repository contains a Scheme implementation of the Random Sample Consensus 
 ## Project Details
 - Author: Rakshita Mathur
 - Student ID: 300215340
-- Date: 31/03/2023
+- Date: 31/01/2023
 - Course: CSI 2120 Project - Part 3
 
 ## How to Run
