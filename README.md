@@ -27,5 +27,6 @@ You can clone this repository and use the Project and assignments for learning a
 
 ## Contact
 
-If you have any questions or need further information, please contact emailto:rmath049@uottawa.ca.
+If you have any questions or need further information,  [Contact me](mailto:rmath049@uottawa.ca)
+
 
