@@ -11,7 +11,7 @@ This repository contains the course materials for CSI2120 - Programming Paradigm
 
 ## Contents
 
-The repository has 2 directories, one for Assignemnts and another is for Projects
+The repository has 2 directories, one for Assignments and another is for Projects
 
 - **Java:** This directory contains Java code for Project-part-1 related to Object-Oriented Programming (OOP) concepts covered in the course.
 
